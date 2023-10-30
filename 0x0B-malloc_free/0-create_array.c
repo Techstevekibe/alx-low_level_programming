@@ -1,5 +1,5 @@
-#include <stdlib.h>
 #include "main.h"
+#include <stdlib.h>
 /**
  * create_array - check the code for ALX Students
  * @size: argument for size of the array
